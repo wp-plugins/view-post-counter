@@ -1,5 +1,5 @@
 === View Post counter ===
-Contributors: Masum Billah
+Contributors: masumbd
 Donate link: 
 Tags: view post counter, getmasum, post, masum billah
 Requires at least: 3.0
