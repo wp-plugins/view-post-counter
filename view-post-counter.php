@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: View Post counter
-Plugin URI: http://getmasum.com/view-post-counter
+Plugin URI: http://wordpress.org/plugins/view-post-counter/
 Description: This is very simple plugin of view post counter
 Author: Masum Billah
 Version: 1.1
