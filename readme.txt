@@ -1,7 +1,7 @@
 === View Post counter ===
 Contributors: masumbd
 Donate link: 
-Tags: view post counter, getmasum, post, masum billah
+Tags: post views,hits,counter,post,view,postviews,view counter,views,total,hits counter,hit,page,widget,post counter plugin,getmasum
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 4.3
