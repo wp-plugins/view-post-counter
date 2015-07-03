@@ -1,6 +1,6 @@
 === View Post counter ===
 Contributors: masumbd
-Donate link: 
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TAXUBBKCANHLA&lc=US&item_name=bograhost&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: post views,hits,counter,post,view,postviews,view counter,views,total,hits counter,hit,page,widget,post counter plugin,getmasum
 Requires at least: 3.0
 Tested up to: 3.5
