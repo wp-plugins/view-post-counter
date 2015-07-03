@@ -21,7 +21,6 @@ This plugin is capability in all wordpress version.
 1. Upload the view-post-counter plugin to your blog.
 2. Active it.
 3. Finaly add Bellow code of your single.php file or category.php, archive.php and any where that you want.
-
 <?php if(function_exists('bac_PostViews')) {
     echo bac_PostViews(get_the_ID());
 }?>
